@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T10:07:41.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="nPTvZjN583XOXvNjZYc1" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T10:13:32.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="NCzdPh64lQgTF4oaMqxM" version="15.8.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1185" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -33,11 +33,12 @@
           <mxGeometry x="60" y="350" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3R4pQPPEvZektnw-kuWU-56" value="落单申请单、清分明细单、结算场次单" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=11;fontColor=#000000;strokeColor=#788AA3;strokeWidth=1;fillColor=#B2C9AB;curved=0;jumpStyle=none;" edge="1" target="3R4pQPPEvZektnw-kuWU-55" parent="3nuBFxr9cyL0pnOWT2aG-5">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint x="65" y="330" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="95" y="330" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3R4pQPPEvZektnw-kuWU-1" value="计费中心" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;shadow=0;strokeWidth=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=0;size=30;" vertex="1" parent="1">
