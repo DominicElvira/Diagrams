@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T10:55:39.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="qNth1wcSwwFdew0PybJ6" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T10:56:13.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="VqPU5ZUiiDW7IwO9gmBx" version="15.8.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1185" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="45" y="40" width="10" height="500" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="商户清结算服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;shadow=0;strokeWidth=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#FFFFFF;rounded=0;size=30;" parent="1" vertex="1">
-          <mxGeometry x="160" y="50" width="110" height="520" as="geometry" />
+          <mxGeometry x="160" y="50" width="110" height="750" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=0;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="50" y="50" width="10" height="440" as="geometry" />
@@ -128,12 +128,6 @@
           <mxGeometry x="-0.016" y="-18" relative="1" as="geometry">
             <mxPoint x="230" y="499" as="targetPoint" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3R4pQPPEvZektnw-kuWU-60" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=11;fontColor=#000000;strokeColor=#788AA3;strokeWidth=1;fillColor=#B2C9AB;curved=0;jumpStyle=none;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="310" y="340" as="sourcePoint" />
-            <mxPoint x="470" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3R4pQPPEvZektnw-kuWU-62" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=11;fontColor=#000000;strokeColor=#788AA3;strokeWidth=1;fillColor=#B2C9AB;curved=0;jumpStyle=none;" edge="1" parent="1">
