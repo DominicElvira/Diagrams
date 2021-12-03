@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T06:30:43.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="rdHj6S4_JLmykDQmcEdG" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T06:31:39.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="u8aJm7HsWIa6SZ-S3xzG" version="15.8.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1479" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -365,7 +365,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x3EQ1VxM2JQj4DBP7iOf-3" value="&lt;font color=&quot;#ff6666&quot;&gt;获取结算通用配置 节假日 时区..（根据&lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 102 , 102)&quot;&gt;业务产品&lt;/span&gt;&lt;font color=&quot;#ff6666&quot;&gt;）&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="x3EQ1VxM2JQj4DBP7iOf-1" target="x3EQ1VxM2JQj4DBP7iOf-2" edge="1">
+        <mxCell id="x3EQ1VxM2JQj4DBP7iOf-3" value="&lt;font color=&quot;#ff6666&quot;&gt;获取结算通用配置 节假日对应国家主体 时区..（根据&lt;/font&gt;&lt;span style=&quot;color: rgb(255 , 102 , 102)&quot;&gt;业务产品&lt;/span&gt;&lt;font color=&quot;#ff6666&quot;&gt;）&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="x3EQ1VxM2JQj4DBP7iOf-1" target="x3EQ1VxM2JQj4DBP7iOf-2" edge="1">
           <mxGeometry x="0.0705" y="1" relative="1" as="geometry">
             <mxPoint x="525" y="1025" as="sourcePoint" />
             <mxPoint as="offset" />
