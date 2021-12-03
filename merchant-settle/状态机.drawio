@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T06:46:51.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Ekdn3YLtY594RUJkB7FN" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T06:50:20.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="IUSwPLLF2nDBUnU3Bp26" version="15.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,14 +136,8 @@
         <mxCell id="9godZGXGINCwYg5NOnyd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="9godZGXGINCwYg5NOnyd-5" source="9godZGXGINCwYg5NOnyd-44" target="9godZGXGINCwYg5NOnyd-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9godZGXGINCwYg5NOnyd-47" value="2：暂停出场" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="9godZGXGINCwYg5NOnyd-5" vertex="1">
-          <mxGeometry x="200" y="250" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9godZGXGINCwYg5NOnyd-48" value="满足出场hold需求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="9godZGXGINCwYg5NOnyd-47" vertex="1">
-          <mxGeometry y="30" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9godZGXGINCwYg5NOnyd-52" value="1： 已出场" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="9godZGXGINCwYg5NOnyd-5" vertex="1">
-          <mxGeometry x="10" y="250" width="160" height="60" as="geometry" />
+          <mxGeometry x="60" y="270" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9godZGXGINCwYg5NOnyd-53" value="生成了预结单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="9godZGXGINCwYg5NOnyd-52" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -151,23 +145,8 @@
         <mxCell id="9godZGXGINCwYg5NOnyd-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="9godZGXGINCwYg5NOnyd-5" source="9godZGXGINCwYg5NOnyd-46" target="9godZGXGINCwYg5NOnyd-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9godZGXGINCwYg5NOnyd-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="9godZGXGINCwYg5NOnyd-5" source="9godZGXGINCwYg5NOnyd-46" target="9godZGXGINCwYg5NOnyd-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9godZGXGINCwYg5NOnyd-46" value="落单初始态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="9godZGXGINCwYg5NOnyd-5" vertex="1">
           <mxGeometry x="60" y="140" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9godZGXGINCwYg5NOnyd-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="9godZGXGINCwYg5NOnyd-5" source="9godZGXGINCwYg5NOnyd-48" target="9godZGXGINCwYg5NOnyd-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="330" />
-              <mxPoint x="360" y="330" />
-              <mxPoint x="360" y="190" />
-              <mxPoint x="240" y="190" />
-              <mxPoint x="240" y="90" />
-              <mxPoint x="140" y="90" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="9godZGXGINCwYg5NOnyd-70" value="打款单" style="swimlane;startSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1730" y="60" width="490" height="630" as="geometry" />
