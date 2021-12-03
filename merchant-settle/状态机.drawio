@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T02:06:06.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="ppwtCk8GOaCJ5iK7D4te" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T02:07:03.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Tt2hxmblxqsCbarUyPI2" version="15.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,19 +16,19 @@
         <mxCell id="9godZGXGINCwYg5NOnyd-2" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="9godZGXGINCwYg5NOnyd-1">
           <mxGeometry x="140" y="40" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9godZGXGINCwYg5NOnyd-7" value="受理中" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="9godZGXGINCwYg5NOnyd-1">
+        <mxCell id="9godZGXGINCwYg5NOnyd-7" value="0： 受理中" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="9godZGXGINCwYg5NOnyd-1">
           <mxGeometry x="70" y="100" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9godZGXGINCwYg5NOnyd-8" value="落单初始态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="9godZGXGINCwYg5NOnyd-7">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9godZGXGINCwYg5NOnyd-21" value="清分完成" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="9godZGXGINCwYg5NOnyd-1">
+        <mxCell id="9godZGXGINCwYg5NOnyd-21" value="2：清分完成" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="9godZGXGINCwYg5NOnyd-1">
           <mxGeometry x="70" y="320" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9godZGXGINCwYg5NOnyd-22" value="对应的所有清分明细，清分完成后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="9godZGXGINCwYg5NOnyd-21">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9godZGXGINCwYg5NOnyd-23" value="清分失败" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="9godZGXGINCwYg5NOnyd-1">
+        <mxCell id="9godZGXGINCwYg5NOnyd-23" value="3：清分失败" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="9godZGXGINCwYg5NOnyd-1">
           <mxGeometry x="70" y="430" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9godZGXGINCwYg5NOnyd-24" value="退款清分场景才会有的，退款清分失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="9godZGXGINCwYg5NOnyd-23">
@@ -43,7 +43,7 @@
         <mxCell id="9godZGXGINCwYg5NOnyd-5" value="打款" style="swimlane;startSize=20;" vertex="1" parent="9godZGXGINCwYg5NOnyd-0">
           <mxGeometry x="540" y="20" width="340" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="9godZGXGINCwYg5NOnyd-19" value="申请成功" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9godZGXGINCwYg5NOnyd-19" value="1： 申请成功" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="270" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9godZGXGINCwYg5NOnyd-20" value="清分单落单后修改为此状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="9godZGXGINCwYg5NOnyd-19">
