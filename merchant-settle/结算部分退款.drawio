@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T06:53:39.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Gjxj9uh3u3yo99lG1OWH" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-24T07:03:32.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="oeYWnIPCIjTjH5zlmuJE" version="16.0.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
         <mxCell id="-24mSBLAlSgEENDBRZwc-30" value="部分退款" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="20" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-24mSBLAlSgEENDBRZwc-31" value="返回成功失败" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=11;fontColor=#000000;strokeColor=#788AA3;strokeWidth=1;fillColor=#B2C9AB;curved=0;jumpStyle=none;" parent="1" edge="1">
+        <mxCell id="-24mSBLAlSgEENDBRZwc-31" value="返回成功失败，及商户侧的金额信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=11;fontColor=#000000;strokeColor=#788AA3;strokeWidth=1;fillColor=#B2C9AB;curved=0;jumpStyle=none;" parent="1" edge="1">
           <mxGeometry x="0.0769" y="-10" relative="1" as="geometry">
             <mxPoint x="210" y="730" as="sourcePoint" />
             <mxPoint x="74" y="730" as="targetPoint" />
@@ -171,7 +171,7 @@
             <mxPoint x="236" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V6eHYc5XbVQKVzU8smpy-2" value="返回校验不通过" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=11;fontColor=#000000;strokeColor=#788AA3;strokeWidth=1;fillColor=#B2C9AB;curved=0;jumpStyle=none;" edge="1" parent="1">
+        <mxCell id="V6eHYc5XbVQKVzU8smpy-2" value="返回失败" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=11;fontColor=#000000;strokeColor=#788AA3;strokeWidth=1;fillColor=#B2C9AB;curved=0;jumpStyle=none;" edge="1" parent="1">
           <mxGeometry x="0.0769" y="-10" relative="1" as="geometry">
             <mxPoint x="213" y="433" as="sourcePoint" />
             <mxPoint x="77" y="433" as="targetPoint" />
