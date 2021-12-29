@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T10:34:14.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="gKz8NKKw0pjyD_s7oBA8" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T10:35:26.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="FgVFB60AEQF7oPLIzlg2" version="15.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1662" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -340,6 +340,15 @@
         <mxCell id="XI2NUk_kqbv8LEPc0osQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XI2NUk_kqbv8LEPc0osQ-0" source="XI2NUk_kqbv8LEPc0osQ-35" target="XI2NUk_kqbv8LEPc0osQ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XI2NUk_kqbv8LEPc0osQ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XI2NUk_kqbv8LEPc0osQ-0" source="XI2NUk_kqbv8LEPc0osQ-35" target="XI2NUk_kqbv8LEPc0osQ-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="890" />
+              <mxPoint x="250" y="1120" />
+              <mxPoint x="360" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XI2NUk_kqbv8LEPc0osQ-35" value="资产交换状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XI2NUk_kqbv8LEPc0osQ-0">
           <mxGeometry x="320" y="830" width="80" height="80" as="geometry" />
         </mxCell>
@@ -435,7 +444,7 @@
         <mxCell id="XI2NUk_kqbv8LEPc0osQ-64" value="需要" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XI2NUk_kqbv8LEPc0osQ-0">
           <mxGeometry x="360" y="495" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XI2NUk_kqbv8LEPc0osQ-65" value="监听资产交换状态，，由打款处理中变为打款成功，预结单状态由结算中变为已结算" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="XI2NUk_kqbv8LEPc0osQ-0">
+        <mxCell id="XI2NUk_kqbv8LEPc0osQ-65" value="预结单状态由结算中变为已结算" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="XI2NUk_kqbv8LEPc0osQ-0">
           <mxGeometry x="450" y="1150" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XI2NUk_kqbv8LEPc0osQ-66" value="预结单状态由结算中变为待结算&lt;br&gt;场次单由已出场变为出场中" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="XI2NUk_kqbv8LEPc0osQ-0">
@@ -464,6 +473,9 @@
         </mxCell>
         <mxCell id="XI2NUk_kqbv8LEPc0osQ-79" value="审批" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XI2NUk_kqbv8LEPc0osQ-0">
           <mxGeometry x="650" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XI2NUk_kqbv8LEPc0osQ-86" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="XI2NUk_kqbv8LEPc0osQ-0">
+          <mxGeometry x="210" y="900" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
