@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T11:01:25.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_8GaAjWgvIkXJDxVO778" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T11:04:12.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wZ0BqlsWWskZzTfwAnWo" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1662" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
         <mxCell id="XI2NUk_kqbv8LEPc0osQ-81" value="1：待结算" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="9godZGXGINCwYg5NOnyd-56" vertex="1">
           <mxGeometry x="170" y="507" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XI2NUk_kqbv8LEPc0osQ-82" value="已换汇" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="XI2NUk_kqbv8LEPc0osQ-81" vertex="1">
+        <mxCell id="XI2NUk_kqbv8LEPc0osQ-82" value="资产交换返回应结确认成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="XI2NUk_kqbv8LEPc0osQ-81" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XI2NUk_kqbv8LEPc0osQ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="9godZGXGINCwYg5NOnyd-56" source="XI2NUk_kqbv8LEPc0osQ-82" target="9godZGXGINCwYg5NOnyd-60" edge="1">
@@ -191,7 +191,7 @@
         <mxCell id="sVXYpBi1TFcthid4j-u_-7" value="4：待应结确认" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="9godZGXGINCwYg5NOnyd-56">
           <mxGeometry x="185" y="230" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sVXYpBi1TFcthid4j-u_-8" value="已换汇" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="sVXYpBi1TFcthid4j-u_-7">
+        <mxCell id="sVXYpBi1TFcthid4j-u_-8" value="不用换汇或者换汇转账成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="sVXYpBi1TFcthid4j-u_-7">
           <mxGeometry y="30" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sVXYpBi1TFcthid4j-u_-23" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="9godZGXGINCwYg5NOnyd-56">
@@ -212,13 +212,13 @@
         <mxCell id="sVXYpBi1TFcthid4j-u_-27" value="5：应结确认中" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="9godZGXGINCwYg5NOnyd-56">
           <mxGeometry x="80" y="360" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sVXYpBi1TFcthid4j-u_-28" value="已换汇" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="sVXYpBi1TFcthid4j-u_-27">
+        <mxCell id="sVXYpBi1TFcthid4j-u_-28" value="资产交换返回应结确认处理中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="sVXYpBi1TFcthid4j-u_-27">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sVXYpBi1TFcthid4j-u_-29" value="6：应结确认失败" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="9godZGXGINCwYg5NOnyd-56">
           <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sVXYpBi1TFcthid4j-u_-30" value="已换汇" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="sVXYpBi1TFcthid4j-u_-29">
+        <mxCell id="sVXYpBi1TFcthid4j-u_-30" value="资产交换返回应结确认失败" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="sVXYpBi1TFcthid4j-u_-29">
           <mxGeometry y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sVXYpBi1TFcthid4j-u_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9godZGXGINCwYg5NOnyd-56" source="sVXYpBi1TFcthid4j-u_-8" target="sVXYpBi1TFcthid4j-u_-27">
